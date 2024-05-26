@@ -1,0 +1,12 @@
+C:\Users\Sandalu\Desktop\c#\New folder\inventory\inventory\bin\Debug\invent.mdf
+C:\Users\Sandalu\Desktop\c#\New folder\inventory\inventory\bin\Debug\invent_log.ldf
+C:\Users\Sandalu\Desktop\c#\New folder\inventory\inventory\bin\Debug\inventory.exe.config
+C:\Users\Sandalu\Desktop\c#\New folder\inventory\inventory\bin\Debug\inventory.exe
+C:\Users\Sandalu\Desktop\c#\New folder\inventory\inventory\bin\Debug\inventory.pdb
+C:\Users\Sandalu\Desktop\c#\New folder\inventory\inventory\obj\Debug\inventory.csproj.AssemblyReference.cache
+C:\Users\Sandalu\Desktop\c#\New folder\inventory\inventory\obj\Debug\inventory.Form1.resources
+C:\Users\Sandalu\Desktop\c#\New folder\inventory\inventory\obj\Debug\inventory.Properties.Resources.resources
+C:\Users\Sandalu\Desktop\c#\New folder\inventory\inventory\obj\Debug\inventory.csproj.GenerateResource.cache
+C:\Users\Sandalu\Desktop\c#\New folder\inventory\inventory\obj\Debug\inventory.csproj.CoreCompileInputs.cache
+C:\Users\Sandalu\Desktop\c#\New folder\inventory\inventory\obj\Debug\inventory.exe
+C:\Users\Sandalu\Desktop\c#\New folder\inventory\inventory\obj\Debug\inventory.pdb
